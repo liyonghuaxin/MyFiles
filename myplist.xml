@@ -33,7 +33,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>update-url</key>
-                    <string>https://qiniu.sushewifi.com/testios.plist</string>
+                    <string>http://li582-250.members.linode.com/MyFiles/myplist.xml</string>
                     <key>bundle-identifier</key>
                     <string>com.zhonglu.ht</string>
                     <key>bundle-version</key>
