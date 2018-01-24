@@ -1,0 +1,4049 @@
+dict{
+    "end_memory" = "2.255";
+    "goods_list" =     (
+                {
+            "add_time" = "2018-01-23 13:30:04";
+            category = 0;
+            deposit = "1.00";
+            description = "\U9999\U751c\U5ae9\U6ed1\Uff0c\U5165\U53e3\U503e\U5fc3";
+            dorm = 1;
+            from = 1;
+            id = 162;
+            "is_recommend" = 1;
+            name = "\U559c\U4e4b\U90ceCICI(\U82f9\U679c\U5473)\U676f\U88c5 218g";
+            num = 91;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/62894.jpg";
+            price = "2.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 1;
+            spec = 218g;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-23 11:15:47";
+            category = 0;
+            deposit = "0.00";
+            description = "\U7cbe\U54c1\U679c\U5207\U706b\U9f99\U679c+\U54c8\U5bc6\U74dc+\U897f\U74dc\Uff0c\U591a\U6837\U6df7\U642d\U66f4\U597d\U5403\Uff01";
+            dorm = 1;
+            from = 0;
+            id = 155;
+            "is_recommend" = 1;
+            name = "\U7cbe\U54c1\U679c\U5207\U706b\U9f99\U679c+\U54c8\U5bc6\U74dc";
+            num = 91;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/11697.jpg";
+            price = "15.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2\U88c5";
+            status = 1;
+            "vip_price" = "12.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:53:16";
+            category = 0;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 148;
+            "is_recommend" = 1;
+            name = "\U53e3\U6c34\U5a03 \U867e\U6761(\U756a\U8304\U5473) 80g";
+            num = 96;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/29508.jpg";
+            price = "5.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 80g;
+            status = 1;
+            "vip_price" = "5.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:32:39";
+            category = 0;
+            deposit = "0.00";
+            description = "\U5c31\U662f\U8fd9\U4e2a\U5473";
+            dorm = 1;
+            from = 0;
+            id = 105;
+            "is_recommend" = 1;
+            name = "\U5eb7\U5e08\U5085\U7ea2\U70e7\U725b\U8089\U9762(\U6876\U88c5114g)";
+            num = 98;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/36424.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "(\U6876\U88c5114g)";
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:18:29";
+            category = 0;
+            deposit = "0.00";
+            description = "\U5065\U5eb7\U7f8e\U5473\U4e00\U7ebf\U7275";
+            dorm = 1;
+            from = 0;
+            id = 52;
+            "is_recommend" = 1;
+            name = "\U8425\U517b\U5feb\U7ebf(\U83e0\U841d\U5473)";
+            num = 98;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/68442.jpg";
+            price = "2.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250ml;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-23 13:30:04";
+            category = 1;
+            deposit = "1.00";
+            description = "\U9999\U751c\U5ae9\U6ed1\Uff0c\U5165\U53e3\U503e\U5fc3";
+            dorm = 1;
+            from = 1;
+            id = 162;
+            "is_recommend" = 1;
+            name = "\U559c\U4e4b\U90ceCICI(\U82f9\U679c\U5473)\U676f\U88c5 218g";
+            num = 91;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/62894.jpg";
+            price = "2.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 1;
+            spec = 218g;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-23 13:28:18";
+            category = 1;
+            deposit = "0.00";
+            description = "\U9999\U751c\U5ae9\U6ed1\Uff0c\U5165\U53e3\U503e\U5fc3";
+            dorm = 1;
+            from = 0;
+            id = 161;
+            "is_recommend" = 0;
+            name = "\U559c\U4e4b\U90ceCICI(\U871c\U6843\U5473)\U676f\U88c5 218g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/50646.jpg";
+            price = "2.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 218g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-23 13:26:45";
+            category = 1;
+            deposit = "0.00";
+            description = "\U9999\U751c\U5ae9\U6ed1\Uff0c\U5165\U53e3\U503e\U5fc3";
+            dorm = 1;
+            from = 0;
+            id = 160;
+            "is_recommend" = 0;
+            name = "\U559c\U4e4b\U90ceCICI(\U8354\U679d\U5473)\U676f\U88c5 218g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/27460.jpg";
+            price = "2.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 218g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-23 13:25:17";
+            category = 1;
+            deposit = "0.00";
+            description = "\U9999\U751c\U5ae9\U6ed1\Uff0c\U5165\U53e3\U503e\U5fc3";
+            dorm = 1;
+            from = 0;
+            id = 159;
+            "is_recommend" = 0;
+            name = "\U559c\U4e4b\U90ceCICI \U53ef\U5438\U679c\U51bb \U888b\U88c5 150g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/12206.jpg";
+            price = "2.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 150g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-23 13:24:13";
+            category = 1;
+            deposit = "0.00";
+            description = "\U9999\U751c\U5ae9\U6ed1\Uff0c\U5165\U53e3\U503e\U5fc3";
+            dorm = 1;
+            from = 0;
+            id = 158;
+            "is_recommend" = 0;
+            name = "\U559c\U4e4b\U90ce \U679c\U8089\U679c\U51bb(\U8461\U8404\Uff06\U82f9\U679c) 200g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/91928.jpg";
+            price = "4.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 200g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-23 11:22:51";
+            category = 1;
+            deposit = "0.00";
+            description = "\U9999\U751c\U5ae9\U6ed1\Uff0c\U5165\U53e3\U503e\U5fc3";
+            dorm = 1;
+            from = 0;
+            id = 157;
+            "is_recommend" = 0;
+            name = "\U559c\U4e4b\U90ce \U679c\U8089\U679c\U51bb(\U9ec4\U6843\Uff06\U871c\U6843) 200g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/56571.jpg";
+            price = "4.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "";
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-23 11:20:48";
+            category = 1;
+            deposit = "0.00";
+            description = "\U7231\U7684\U5473\U9053";
+            dorm = 1;
+            from = 0;
+            id = 156;
+            "is_recommend" = 0;
+            name = "\U536b\U9f99 \U4eb2\U5634\U70e7(\U9ea6\U8fa3\U9e21\U6c41\U5473) 20g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/19174.jpg";
+            price = "0.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 20g;
+            status = 1;
+            "vip_price" = "0.50";
+        },
+                {
+            "add_time" = "2018-01-23 11:06:18";
+            category = 1;
+            deposit = "0.00";
+            description = "\U7231\U7684\U5473\U9053";
+            dorm = 1;
+            from = 0;
+            id = 154;
+            "is_recommend" = 0;
+            name = "\U536b\U9f99 \U4eb2\U5634\U70e7(\U7ea2\U70e7\U725b\U8089\U5473) 20g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/29099.jpg";
+            price = "0.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 20g;
+            status = 1;
+            "vip_price" = "0.50";
+        },
+                {
+            "add_time" = "2018-01-23 11:05:00";
+            category = 1;
+            deposit = "0.00";
+            description = "\U7231\U7684\U5473\U9053";
+            dorm = 1;
+            from = 0;
+            id = 153;
+            "is_recommend" = 0;
+            name = "\U536b\U9f99 \U4eb2\U5634\U70e7(\U5ddd\U9999\U98ce\U5473) 20g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/85338.jpg";
+            price = "0.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 20g;
+            status = 1;
+            "vip_price" = "0.50";
+        },
+                {
+            "add_time" = "2018-01-23 11:01:46";
+            category = 1;
+            deposit = "0.00";
+            description = "\U91d1\U9ec4\U9999\U8106\Uff0c\U72ec\U7279\U7f8e\U5473";
+            dorm = 1;
+            from = 0;
+            id = 152;
+            "is_recommend" = 0;
+            name = "\U65fa\U4ed4 \U5c0f\U5c0f\U9165(\U9ed1\U80e1\U6912\U5473) 20g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/16142.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 20g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 11:00:11";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6e05\U6e05\U8471\U9999\Uff0c\U5927\U7c73\U5236\U9020";
+            dorm = 1;
+            from = 0;
+            id = 151;
+            "is_recommend" = 0;
+            name = "\U65fa\U4ed4 \U5c0f\U5c0f\U9165(\U8471\U9999\U9e21\U8089\U5473) 20g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/46629.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 20g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:56:31";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53ef\U7231\U6ce1\U8299";
+            dorm = 1;
+            from = 0;
+            id = 150;
+            "is_recommend" = 0;
+            name = "\U65fa\U4ed4 \U6ce1\U8299(\U8349\U8393\U5473) 60g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/22100.jpg";
+            price = "5.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "5.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:54:25";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6211\U7231\U8349\U8393\U5473";
+            dorm = 1;
+            from = 0;
+            id = 149;
+            "is_recommend" = 0;
+            name = "\U65fa\U4ed4 \U725b\U5976\U7cd6(\U8349\U8393\U5473) 18g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/96334.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 18g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:53:16";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 148;
+            "is_recommend" = 1;
+            name = "\U53e3\U6c34\U5a03 \U867e\U6761(\U756a\U8304\U5473) 80g";
+            num = 96;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/29508.jpg";
+            price = "5.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 80g;
+            status = 1;
+            "vip_price" = "5.50";
+        },
+                {
+            "add_time" = "2018-01-23 10:52:06";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 147;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U867e\U7247 80g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/66456.jpg";
+            price = "5.50";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 80g;
+            status = 1;
+            "vip_price" = "5.50";
+        },
+                {
+            "add_time" = "2018-01-23 10:49:18";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 146;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U6ce1\U5364 \U9739\U96f3\U638c(\U9178\U8fa3\U5473) 28g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/90338.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 28g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:47:09";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 145;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U5170\U82b1\U8c46(\U9171\U6c41\U725b\U8089\U5473) 60g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/87773.jpg";
+            price = "3.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:40:43";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 144;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U53e3\U6c34\U9c7c(\U91ce\U5c71\U6912\U5473) 13g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/86575.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 13g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:38:51";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 143;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U53e3\U6c34\U9c7c(\U9171\U6c41\U725b\U8089\U5473) 13g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/87079.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 13g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:36:30";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 142;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U53e3\U6c34\U8fa3\U7fc5(\U9999\U8fa3\U5473) 18g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/39319.jpg";
+            price = "0.10";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 18g;
+            status = 1;
+            "vip_price" = "0.10";
+        },
+                {
+            "add_time" = "2018-01-23 10:35:13";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 141;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U53e3\U6c34\U8fa3\U8116(\U9999\U8fa3\U5473) 18g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/70798.jpg";
+            price = "0.10";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 18g;
+            status = 1;
+            "vip_price" = "0.10";
+        },
+                {
+            "add_time" = "2018-01-23 10:32:47";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 140;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U591a\U5473\U82b1\U751f(\U9999\U8fa3\U5473) 60g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/95659.jpg";
+            price = "3.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:31:25";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 139;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U591a\U5473\U82b1\U751f(\U4e94\U9999\U5473) 60g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/66389.jpg";
+            price = "3.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:29:39";
+            category = 1;
+            deposit = "0.00";
+            description = "\U53e3\U5473\U591a\Uff0c\U559c\U7231\U591a";
+            dorm = 1;
+            from = 0;
+            id = 138;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U591a\U5473\U82b1\U751f(\U70e4\U8089\U5473) 60g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/79326.jpg";
+            price = "3.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:20:39";
+            category = 1;
+            deposit = "0.00";
+            description = "\U5feb\U4e50\U6bcf\U4e00\U523b\U6211\U7684\U53ef\U6bd4\U514b";
+            dorm = 1;
+            from = 0;
+            id = 137;
+            "is_recommend" = 0;
+            name = "\U53ef\U6bd4\U514b \U85af\U7247(\U723d\U53e3\U9752\U74dc\U5473) 60g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/34199.jpg";
+            price = "4.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-23 10:18:29";
+            category = 1;
+            deposit = "0.00";
+            description = "\U5feb\U4e50\U6bcf\U4e00\U523b\U6211\U7684\U53ef\U6bd4\U514b";
+            dorm = 1;
+            from = 0;
+            id = 136;
+            "is_recommend" = 0;
+            name = "\U53ef\U6bd4\U514b \U85af\U7247(\U756a\U8304\U5473) 60g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/95203.jpg";
+            price = "4.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-23 09:58:23";
+            category = 1;
+            deposit = "0.00";
+            description = "\U5feb\U4e50\U6bcf\U4e00\U523b\U6211\U7684\U53ef\U6bd4\U514b";
+            dorm = 1;
+            from = 0;
+            id = 135;
+            "is_recommend" = 0;
+            name = "\U53ef\U6bd4\U514b \U5494\U8da3\U85af\U6761(\U85af\U9999\U70e4\U539f\U5473) 32g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/47048.jpg";
+            price = "3.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 32g;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-23 09:56:31";
+            category = 1;
+            deposit = "0.00";
+            description = "\U5feb\U4e50\U6bcf\U4e00\U523b\U6211\U7684\U53ef\U6bd4\U514b";
+            dorm = 1;
+            from = 0;
+            id = 134;
+            "is_recommend" = 0;
+            name = "\U53ef\U6bd4\U514b \U5494\U8da3\U85af\U6761(\U52b2\U7206\U70e4\U7fc5\U5473) 32g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/67846.jpg";
+            price = "3.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 32g;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-23 09:54:17";
+            category = 1;
+            deposit = "0.00";
+            description = "\U52b2\U5728\U6fc0\U60c5\U65f6\U523b";
+            dorm = 1;
+            from = 0;
+            id = 133;
+            "is_recommend" = 0;
+            name = "\U52b2\U4ed4 \U73cd\U54c1\U5c0f\U9c7c(\U6e58\U8fa3) 18g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/91404.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 18g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 09:52:01";
+            category = 1;
+            deposit = "0.00";
+            description = "\U52b2\U5728\U6fc0\U60c5\U65f6\U523b";
+            dorm = 1;
+            from = 0;
+            id = 132;
+            "is_recommend" = 0;
+            name = "\U52b2\U4ed4 \U73cd\U54c1\U5c0f\U9c7c(\U8001\U5364) 18g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/51747.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 18g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 09:50:19";
+            category = 1;
+            deposit = "0.00";
+            description = "\U52b2\U5728\U6fc0\U60c5\U65f6\U523b";
+            dorm = 1;
+            from = 0;
+            id = 131;
+            "is_recommend" = 0;
+            name = "\U52b2\U4ed4 \U73cd\U54c1\U5c0f\U9c7c(\U9171\U9999) 18g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/62765.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 18g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 09:49:02";
+            category = 1;
+            deposit = "0.00";
+            description = "\U52b2\U5728\U6fc0\U60c5\U65f6\U523b";
+            dorm = 1;
+            from = 0;
+            id = 130;
+            "is_recommend" = 0;
+            name = "\U52b2\U4ed4 \U73cd\U54c1\U5c0f\U9c7c(\U5ddd\U8fa3) 18g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/58171.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 18g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 08:42:42";
+            category = 1;
+            deposit = "0.00";
+            description = "\U52b2\U5728\U6fc0\U60c5\U65f6\U523b";
+            dorm = 1;
+            from = 0;
+            id = 129;
+            "is_recommend" = 0;
+            name = "\U52b2\U4ed4 \U5c0f\U9c7c(\U9ebb\U8fa3\U5c0f\U9c7c) 12g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/55703.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 12g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 08:41:14";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 128;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U9c7c\U8c46\U8150(\U9999\U8fa3\U5473) 22g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/76302.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 22g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 08:40:10";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 127;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U9c7c\U8c46\U8150(\U70e7\U70e4\U5473) 22g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/58884.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 22g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 08:38:42";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 126;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U9c7c\U8c46\U8150(\U9ebb\U8fa3\U5473) 22g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/11727.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 22g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-23 08:37:21";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 125;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U9c7c\U8c46\U8150(\U6d77\U9c9c\U5473) 22g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/89250.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 22g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 17:02:17";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 124;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U7d20\U6bdb\U809a(\U9999\U8fa3\U5473) 20g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/70401.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 20g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 17:00:49";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 123;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U7d20\U6bdb\U809a(\U5c71\U6912\U5473) 20g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/74442.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 20g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:59:16";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 122;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U7d20\U6bdb\U809a(\U8001\U8c2d\U9178\U83dc\U5473) 20g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/89929.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 20g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:58:10";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 121;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U624b\U6495\U7d20\U8089\U5377(\U9999\U8fa3\U725b\U8089\U5473) 26g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/51160.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 26g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:57:03";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 120;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U624b\U6495\U7d20\U8089\U5377(\U4e94\U9999\U5473) 26g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/31431.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 26g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:56:03";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 119;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U624b\U6495\U7d20\U8089\U5377(\U70e7\U70e4\U5473) 26g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/86063.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 26g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:54:59";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 118;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U624b\U6495\U7d20\U8089\U5377(\U9ebb\U8fa3\U4ed4\U9e21\U5473) 26g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/69056.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 26g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:53:30";
+            category = 1;
+            deposit = "0.00";
+            description = "\U6709\U826f\U5fc3\U51fa\U826f\U54c1";
+            dorm = 1;
+            from = 0;
+            id = 117;
+            "is_recommend" = 0;
+            name = "\U91d1\U78e8\U574a \U5965\U5c14\U826f\U98ce\U5473(\U70e4\U817f) 40g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/90424.jpg";
+            price = "1.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 40g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:19:04";
+            category = 1;
+            deposit = "0.00";
+            description = "\U5580\U5431\U5580\U5431\U5c31\U662f\U8106";
+            dorm = 1;
+            from = 0;
+            id = 88;
+            "is_recommend" = 0;
+            name = "\U5580\U5431\U8106\U85af\U8106\U997c\U5e72(\U94c1\U677f\U70e7\U70e4\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/98785.jpg";
+            price = "2.00";
+            "real_category" = 1;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 35g;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:42:51";
+            category = 2;
+            deposit = "0.00";
+            description = "\U4eb2\U8fd1\U81ea\U7136";
+            dorm = 1;
+            from = 0;
+            id = 28;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00 \U7eff\U8336";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/90133.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 500ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:41:33";
+            category = 2;
+            deposit = "0.00";
+            description = "\U9752\U6625\U65e0\U6781\U9650";
+            dorm = 1;
+            from = 0;
+            id = 27;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00 \U51b0\U7ea2\U8336";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/67673.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 500ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:40:03";
+            category = 2;
+            deposit = "0.00";
+            description = "\U4e00\U53e3\U6da6\U5fc3\U7530";
+            dorm = 1;
+            from = 0;
+            id = 25;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00 \U51b0\U7cd6\U96ea\U68a8";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/56001.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 500ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:38:19";
+            category = 2;
+            deposit = "0.00";
+            description = "\U8ba4\U771f\U641e\U7b11 \U4f4e\U8c03\U51b7\U6ce1";
+            dorm = 1;
+            from = 0;
+            id = 23;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00 \U5c0f\U8317\U540c\U5b66(\U5404\U79cd\U53e3\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/30618.jpg";
+            price = "5.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 480ml;
+            status = 1;
+            "vip_price" = "5.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:36:06";
+            category = 2;
+            deposit = "0.00";
+            description = "\U7f24\U7eb7\U679c\U5473\U70ab\U51fa\U6765";
+            dorm = 1;
+            from = 0;
+            id = 20;
+            "is_recommend" = 0;
+            name = "\U7f8e\U5e74\U8fbe \U74f6\U88c5(\U8702\U871c\U67da\U5b50\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/39108.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 600ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:34:43";
+            category = 2;
+            deposit = "0.00";
+            description = "\U7f24\U7eb7\U679c\U5473\U70ab\U51fa\U6765";
+            dorm = 1;
+            from = 0;
+            id = 18;
+            "is_recommend" = 0;
+            name = "\U7f8e\U5e74\U8fbe \U74f6\U88c5(\U871c\U6843\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/83851.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 600ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:33:05";
+            category = 2;
+            deposit = "0.00";
+            description = "\U7f24\U7eb7\U679c\U5473\U70ab\U51fa\U6765";
+            dorm = 1;
+            from = 0;
+            id = 17;
+            "is_recommend" = 0;
+            name = "\U7f8e\U5e74\U8fbe \U74f6\U88c5(\U6a59\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/65501.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 600ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:30:29";
+            category = 2;
+            deposit = "0.00";
+            description = "\U7f24\U7eb7\U679c\U5473\U70ab\U51fa\U6765";
+            dorm = 1;
+            from = 0;
+            id = 15;
+            "is_recommend" = 0;
+            name = "\U7f8e\U5e74\U8fbe \U74f6\U88c5(\U897f\U74dc\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/79228.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 600ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:24:57";
+            category = 2;
+            deposit = "0.00";
+            description = "\U597d\U559d\U597d\U73a9\U201c\U626d\U201d\U51fa\U6765";
+            dorm = 1;
+            from = 0;
+            id = 13;
+            "is_recommend" = 0;
+            name = "\U82ac\U8fbe";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/95446.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 600ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:23:00";
+            category = 2;
+            deposit = "0.00";
+            description = "\U900f\U5fc3\U51c9 \U8fa3\U66f4\U723d";
+            dorm = 1;
+            from = 0;
+            id = 12;
+            "is_recommend" = 0;
+            name = "\U96ea\U78a7";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/76444.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 600ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:19:59";
+            category = 2;
+            deposit = "0.00";
+            description = "\U8fd9\U611f\U89c9 \U591f\U723d";
+            dorm = 1;
+            from = 0;
+            id = 10;
+            "is_recommend" = 0;
+            name = "\U53ef\U53e3\U53ef\U4e50";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/52696.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 600ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:18:31";
+            category = 2;
+            deposit = "0.00";
+            description = "\U4e50\U57287\U559c\U4e2d";
+            dorm = 1;
+            from = 0;
+            id = 9;
+            "is_recommend" = 0;
+            name = "\U4e03\U559c";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/73665.jpg";
+            price = "3.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 550ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:16:33";
+            category = 2;
+            deposit = "0.00";
+            description = "\U8981\U6c42\U9ad8\U7684  \U559d\U51b0\U9732";
+            dorm = 1;
+            from = 0;
+            id = 8;
+            "is_recommend" = 0;
+            name = "\U51b0\U9732 \U77ff\U6cc9\U6c34";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/98306.jpg";
+            price = "1.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 550ml;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:14:30";
+            category = 2;
+            deposit = "0.00";
+            description = "\U5b89\U5fc3\U7684\U6c34  \U966a\U4f60\U9a91\U884c\U66f4\U5065\U5eb7";
+            dorm = 1;
+            from = 0;
+            id = 7;
+            "is_recommend" = 0;
+            name = "\U5eb7\U5e08\U5085 \U77ff\U6cc9\U6c34";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/16223.jpg";
+            price = "1.00";
+            "real_category" = 2;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 550ml;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:51:32";
+            category = 3;
+            deposit = "0.00";
+            description = "\U8fd9\U9178\U723d\Uff0c\U624d\U6b63\U5b97";
+            dorm = 1;
+            from = 0;
+            id = 116;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00\U9178\U83dc\U9762";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/99848.jpg";
+            price = "2.50";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U888b";
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:50:24";
+            category = 3;
+            deposit = "0.00";
+            description = "\U8fd9\U9178\U723d\Uff0c\U624d\U6b63\U5b97";
+            dorm = 1;
+            from = 0;
+            id = 115;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00\U6ce1\U6912\U725b\U8089\U9762";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/10915.jpg";
+            price = "2.50";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U888b";
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:48:56";
+            category = 3;
+            deposit = "0.00";
+            description = "\U8fd9\U9178\U723d\Uff0c\U624d\U6b63\U5b97";
+            dorm = 1;
+            from = 0;
+            id = 114;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00\U6ce1\U6912\U725b\U8089\U9762";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/75501.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U6876";
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:47:43";
+            category = 3;
+            deposit = "0.00";
+            description = "\U79d8\U5236\U5364\U9999\U5305\Uff0c\U5403\U4e86\U5c31\U77e5\U9053";
+            dorm = 1;
+            from = 0;
+            id = 113;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00\U5364\U8089\U9762";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/10509.jpg";
+            price = "2.50";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U888b";
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:46:03";
+            category = 3;
+            deposit = "0.00";
+            description = "\U8fd9\U9178\U723d\Uff0c\U624d\U6b63\U5b97";
+            dorm = 1;
+            from = 0;
+            id = 112;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00\U8001\U575b\U9178\U83dc\U725b\U8089\U9762";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/76868.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U6876";
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:44:39";
+            category = 3;
+            deposit = "0.00";
+            description = "\U8fd9\U5473\U9053\U4e0d\U6562\U76f8\U4fe1";
+            dorm = 1;
+            from = 0;
+            id = 111;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00\U8fa3\U9999\U725b\U8089\U9762";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/80593.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U6876";
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:40:18";
+            category = 3;
+            deposit = "0.00";
+            description = "\U5999\U9c9c\U914d";
+            dorm = 1;
+            from = 0;
+            id = 110;
+            "is_recommend" = 0;
+            name = "\U7edf\U4e00\U6d77\U9c9c\U7b52\U9aa8\U9762";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/86569.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U6876";
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:37:44";
+            category = 3;
+            deposit = "0.00";
+            description = "\U8fd9\U4e2a\U5473\U513f\U5bf9\U8fa3";
+            dorm = 1;
+            from = 0;
+            id = 109;
+            "is_recommend" = 0;
+            name = "\U5eb7\U5e08\U5085\U9999\U8fa3\U725b\U8089\U9762118g";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/48762.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 118g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:36:21";
+            category = 3;
+            deposit = "0.00";
+            description = "\U7096\U51fa\U771f\U6ecb\U5473";
+            dorm = 1;
+            from = 0;
+            id = 108;
+            "is_recommend" = 0;
+            name = "\U5eb7\U5e08\U5085\U9999\U83c7\U7096\U9e21\U9762(\U6876\U88c5120g)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/63095.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "(\U6876\U88c5120g)";
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:34:55";
+            category = 3;
+            deposit = "0.00";
+            description = "\U9999\U6d53\U597d\U5364\U5473";
+            dorm = 1;
+            from = 0;
+            id = 107;
+            "is_recommend" = 0;
+            name = "\U5eb7\U5e08\U5085\U8fa3\U5364\U725b\U8089\U9762";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/95384.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 120g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:32:39";
+            category = 3;
+            deposit = "0.00";
+            description = "\U5c31\U662f\U8fd9\U4e2a\U5473";
+            dorm = 1;
+            from = 0;
+            id = 105;
+            "is_recommend" = 1;
+            name = "\U5eb7\U5e08\U5085\U7ea2\U70e7\U725b\U8089\U9762(\U6876\U88c5114g)";
+            num = 98;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/36424.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "(\U6876\U88c5114g)";
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:31:26";
+            category = 3;
+            deposit = "0.00";
+            description = "\U5c31\U662f\U8fd9\U4e2a\U5473";
+            dorm = 1;
+            from = 0;
+            id = 103;
+            "is_recommend" = 0;
+            name = "\U5eb7\U5e08\U5085\U65b9\U4fbf\U9762(\U6876\U88c5120g)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/83080.jpg";
+            price = "4.00";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "(\U6876\U88c5120g)";
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:29:20";
+            category = 3;
+            deposit = "0.00";
+            description = "\U5c31\U662f\U8fd9\U4e2a\U5473";
+            dorm = 1;
+            from = 0;
+            id = 100;
+            "is_recommend" = 0;
+            name = "\U5eb7\U5e08\U5085\U65b9\U4fbf\U9762(\U888b\U88c599g)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/32031.jpg";
+            price = "2.50";
+            "real_category" = 3;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "(\U888b\U88c599g)";
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:31:14";
+            category = 4;
+            deposit = "0.00";
+            description = "\U53c8\U9999\U53c8\U8106";
+            dorm = 1;
+            from = 0;
+            id = 102;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47\U8471\U9999\U9999\U8106\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/70154.jpg";
+            price = "0.10";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 35g;
+            status = 1;
+            "vip_price" = "0.10";
+        },
+                {
+            "add_time" = "2018-01-22 16:29:21";
+            category = 4;
+            deposit = "0.00";
+            description = "\U5185\U52a0\U751c\U7389\U7c73";
+            dorm = 1;
+            from = 0;
+            id = 101;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U7389\U7c73\U70ed\U72d7\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/98942.jpg";
+            price = "1.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 40g;
+            status = 1;
+            "vip_price" = "1.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:28:02";
+            category = 4;
+            deposit = "0.00";
+            description = "\U6e05\U723d\U8106\U5ae9\U597d\U5fc3\U60c5";
+            dorm = 1;
+            from = 0;
+            id = 99;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U6930\U679c\U70e4\U9999\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/69107.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 50g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:26:54";
+            category = 4;
+            deposit = "0.00";
+            description = "\U7cbe\U9009\U8089\U8d28\Uff0c\U66f4\U591a\U8089\U7c92";
+            dorm = 1;
+            from = 0;
+            id = 97;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U65b0\U738b\U4e2d\U738b(\U7279\U7ea7\U706b\U817f\U80a0)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/24510.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 68g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:25:31";
+            category = 4;
+            deposit = "0.00";
+            description = "\U5c31\U662f\U8fd9\U4e2a\U5473";
+            dorm = 1;
+            from = 0;
+            id = 96;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U9999\U8fa3\U9999\U8106\U80a0(\U65b0\U5305\U88c5)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/73546.jpg";
+            price = "1.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 35g;
+            status = 1;
+            "vip_price" = "1.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:23:10";
+            category = 4;
+            deposit = "0.00";
+            description = "\U5185\U52a0\U751c\U7389\U7c73";
+            dorm = 1;
+            from = 0;
+            id = 93;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U751c\U7389\U7c73\U9999\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/47560.jpg";
+            price = "1.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 45g;
+            status = 1;
+            "vip_price" = "1.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:21:43";
+            category = 4;
+            deposit = "0.00";
+            description = "\U723d\U8106\U53e3\U611f\Uff0c\U53f0\U6e7e\U98ce\U5473";
+            dorm = 1;
+            from = 0;
+            id = 92;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U53f0\U6e7e\U98ce\U5473\U70e4\U9999\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/65961.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:20:30";
+            category = 4;
+            deposit = "0.00";
+            description = "\U5185\U52a0\U751c\U7389\U7c73";
+            dorm = 1;
+            from = 0;
+            id = 90;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U6da6\U53e3\U9999\U751c\U738b \U7389\U7c73\U98ce\U5473";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/47225.jpg";
+            price = "1.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 48g;
+            status = 1;
+            "vip_price" = "1.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:19:08";
+            category = 4;
+            deposit = "0.00";
+            description = "\U7f8e\U5473\U4ece\U8fd9\U91cc\U5f00\U59cb";
+            dorm = 1;
+            from = 0;
+            id = 89;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U8089\U82b1\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/65103.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 90g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:17:44";
+            category = 4;
+            deposit = "0.00";
+            description = "\U6ce1\U9762\U52a0\U9999\U80a0\Uff0c\U7f8e\U5473\U4e0d\U53ef\U6321";
+            dorm = 1;
+            from = 0;
+            id = 87;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U6ce1\U9762\U62cd\U6863";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/81583.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 90g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:16:24";
+            category = 4;
+            deposit = "0.00";
+            description = "\U5364\U8089\U7c92\U66f4\U7f8e\U5473";
+            dorm = 1;
+            from = 0;
+            id = 85;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U5364\U8089\U5757\U9999\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/46713.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:15:11";
+            category = 4;
+            deposit = "0.00";
+            description = "\U5185\U52a0\U751c\U7389\U7c73";
+            dorm = 1;
+            from = 0;
+            id = 83;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U7cbe\U5236 \U7389\U7c73\U70ed\U72d7\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/15972.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 70g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:14:05";
+            category = 4;
+            deposit = "0.00";
+            description = "\U5c31\U662f\U8fd9\U4e2a\U5473";
+            dorm = 1;
+            from = 0;
+            id = 81;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U7cbe\U5236 \U9999\U8fa3\U9999\U8106\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/34632.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 70g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:12:48";
+            category = 4;
+            deposit = "0.00";
+            description = "\U7f8e\U5473\U4ece\U8fd9\U91cc\U5f00\U59cb";
+            dorm = 1;
+            from = 0;
+            id = 80;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U9e21\U8089\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/91850.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 70g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:11:21";
+            category = 4;
+            deposit = "0.00";
+            description = "\U820c\U5c16\U4e0a\U7684\U7f8e\U5473";
+            dorm = 1;
+            from = 0;
+            id = 79;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U798f\U7f8e \U706b\U817f\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/57225.jpg";
+            price = "1.00";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 70g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:08:58";
+            category = 4;
+            deposit = "0.00";
+            description = "\U820c\U5c16\U4e0a\U7684\U7f8e\U5473";
+            dorm = 1;
+            from = 0;
+            id = 78;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U798f\U7f8e \U706b\U817f\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/57225.jpg";
+            price = "0.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 26g;
+            status = 1;
+            "vip_price" = "0.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:07:20";
+            category = 4;
+            deposit = "0.00";
+            description = "\U7f8e\U5473\U4ece\U8fd9\U91cc\U5f00\U59cb";
+            dorm = 1;
+            from = 0;
+            id = 77;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 \U5927\U9aa8\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/93076.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 70g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:06:11";
+            category = 4;
+            deposit = "0.00";
+            description = "\U8d85Q\U8089\U8d28\Uff0c\U723d\U53e3\U5165\U5473";
+            dorm = 1;
+            from = 0;
+            id = 76;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 Q\U8da3\U513f(\U5b5c\U7136\U98ce\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/61406.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 85g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:05:01";
+            category = 4;
+            deposit = "0.00";
+            description = "\U8d85Q\U8089\U8d28\Uff0c\U723d\U53e3\U5165\U5473";
+            dorm = 1;
+            from = 0;
+            id = 75;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 Q\U8da3\U513f(\U7389\U7c73\U98ce\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/78937.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 85g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:03:57";
+            category = 4;
+            deposit = "0.00";
+            description = "\U8d85Q\U8089\U8d28\Uff0c\U723d\U53e3\U5165\U5473";
+            dorm = 1;
+            from = 0;
+            id = 74;
+            "is_recommend" = 0;
+            name = "\U53cc\U6c47 Q\U8da3\U513f(\U8611\U83c7\U98ce\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/86088.jpg";
+            price = "2.50";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 85g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:01:53";
+            category = 4;
+            deposit = "0.00";
+            description = "\U8d8a\U56bc\U8d8a\U9999";
+            dorm = 1;
+            from = 0;
+            id = 73;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U7389\U7c73\U70ed\U72d7\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/94925.jpg";
+            price = "1.00";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 35g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:00:48";
+            category = 4;
+            deposit = "0.00";
+            description = "\U8d8a\U56bc\U8d8a\U9999";
+            dorm = 1;
+            from = 0;
+            id = 72;
+            "is_recommend" = 0;
+            name = "\U53e3\U6c34\U5a03 \U9999\U8fa3\U9999\U8106\U80a0";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/74024.jpg";
+            price = "1.00";
+            "real_category" = 4;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 35g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:34:10";
+            category = 5;
+            deposit = "0.00";
+            description = "\U4e00\U5757\U5927\U8fc7\U763e";
+            dorm = 1;
+            from = 0;
+            id = 106;
+            "is_recommend" = 0;
+            name = "\U8da3\U591a\U591a";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/58924.jpg";
+            price = "5.50";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 95g;
+            status = 1;
+            "vip_price" = "5.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:32:29";
+            category = 5;
+            deposit = "0.00";
+            description = "\U662f\U8c01\U5403\U4e86\U6211\U7684\U5965\U5229\U5965";
+            dorm = 1;
+            from = 0;
+            id = 104;
+            "is_recommend" = 0;
+            name = "\U5965\U5229\U5965";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/89747.jpg";
+            price = "0.10";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "0.10";
+        },
+                {
+            "add_time" = "2018-01-22 16:27:17";
+            category = 5;
+            deposit = "0.00";
+            description = "\U7528\U5fc3\U505a\U7684\U5a01\U5316\U997c\U5e72";
+            dorm = 1;
+            from = 0;
+            id = 98;
+            "is_recommend" = 0;
+            name = "\U4e3d\U829d\U58eb\U7eb3\U5b9d\U5e1d\U5976\U916a\U5473 \U5a01\U5316\U997c\U5e72";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/70392.jpg";
+            price = "3.50";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 58g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 16:24:59";
+            category = 5;
+            deposit = "0.00";
+            description = "\U7528\U5fc3\U505a\U7684\U5a01\U5316\U997c\U5e72";
+            dorm = 1;
+            from = 0;
+            id = 95;
+            "is_recommend" = 0;
+            name = "\U4e3d\U829d\U58eb\U7eb3\U5b9d\U5e1d\U5976\U916a\U5473 \U5a01\U5316\U997c\U5e72";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/74682.jpg";
+            price = "1.00";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 27g;
+            status = 1;
+            "vip_price" = "1.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:23:29";
+            category = 5;
+            deposit = "0.00";
+            description = "\U5580\U5431\U5580\U5431\U5c31\U662f\U8106";
+            dorm = 1;
+            from = 0;
+            id = 94;
+            "is_recommend" = 0;
+            name = "\U5580\U5431\U8106\U85af\U8106\U997c\U5e72(\U73cd\U54c1\U539f\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/92465.jpg";
+            price = "2.00";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 35g;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:21:10";
+            category = 5;
+            deposit = "0.00";
+            description = "\U5580\U5431\U5580\U5431\U5c31\U662f\U8106";
+            dorm = 1;
+            from = 0;
+            id = 91;
+            "is_recommend" = 0;
+            name = "\U5580\U5431\U8106\U85af\U8106\U997c\U5e72(\U97e9\U5f0f\U6ce1\U83dc\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/43714.jpg";
+            price = "2.00";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 35g;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:17:08";
+            category = 5;
+            deposit = "0.00";
+            description = "\U5580\U5431\U5580\U5431\U5c31\U662f\U8106";
+            dorm = 1;
+            from = 0;
+            id = 86;
+            "is_recommend" = 0;
+            name = "\U5580\U5431\U8106\U85af\U8106\U997c\U5e72(\U8471\U9999\U70e4\U7fc5\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/43395.jpg";
+            price = "2.00";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 35g;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:15:50";
+            category = 5;
+            deposit = "0.00";
+            description = "\U94f6\U9e6d\Uff0c\U7231\U7684\U5473\U9053";
+            dorm = 1;
+            from = 0;
+            id = 84;
+            "is_recommend" = 0;
+            name = "\U94f6\U9e6d\U516b\U5b9d\U7ca5(\U6842\U5706\U83b2\U5b50)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/15075.jpg";
+            price = "4.00";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 360g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 16:14:15";
+            category = 5;
+            deposit = "0.00";
+            description = "\U94f6\U9e6d\Uff0c\U7231\U7684\U5473\U9053";
+            dorm = 1;
+            from = 0;
+            id = 82;
+            "is_recommend" = 0;
+            name = "\U94f6\U9e6d\U516b\U5b9d\U7ca5(\U51b0\U7cd6\U767e\U5408\U94f6\U8033)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/66190.jpg";
+            price = "4.00";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 280g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:50:06";
+            category = 5;
+            deposit = "0.00";
+            description = "\U4e09\U597d\U71ac\U51fa\U597d\U7ca5\U9053";
+            dorm = 1;
+            from = 0;
+            id = 36;
+            "is_recommend" = 0;
+            name = "\U597d\U7ca5\U9053 (\U7d2b\U85af\U7d2b\U7c73)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/31611.jpg";
+            price = "4.50";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 280g;
+            status = 1;
+            "vip_price" = "4.50";
+        },
+                {
+            "add_time" = "2018-01-22 14:48:45";
+            category = 5;
+            deposit = "0.00";
+            description = "\U4e09\U597d\U71ac\U51fa\U597d\U7ca5\U9053";
+            dorm = 1;
+            from = 0;
+            id = 34;
+            "is_recommend" = 0;
+            name = "\U597d\U7ca5\U9053 (\U858f\U4ec1\U7ea2\U8c46)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/10677.jpg";
+            price = "4.50";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 280g;
+            status = 1;
+            "vip_price" = "4.50";
+        },
+                {
+            "add_time" = "2018-01-22 14:47:28";
+            category = 5;
+            deposit = "0.00";
+            description = "\U4e09\U597d\U71ac\U51fa\U597d\U7ca5\U9053";
+            dorm = 1;
+            from = 0;
+            id = 32;
+            "is_recommend" = 0;
+            name = "\U597d\U7ca5\U9053 (\U6930\U5976\U71d5\U9ea6)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/41037.jpg";
+            price = "4.50";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 280g;
+            status = 1;
+            "vip_price" = "4.50";
+        },
+                {
+            "add_time" = "2018-01-22 14:42:58";
+            category = 5;
+            deposit = "0.00";
+            description = "\U4e09\U597d\U71ac\U51fa\U597d\U7ca5\U9053";
+            dorm = 1;
+            from = 0;
+            id = 29;
+            "is_recommend" = 0;
+            name = "\U597d\U7ca5\U9053 (\U83b2\U5b50\U7389\U7c73)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/89489.jpg";
+            price = "4.50";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 280g;
+            status = 1;
+            "vip_price" = "4.50";
+        },
+                {
+            "add_time" = "2018-01-22 14:41:14";
+            category = 5;
+            deposit = "0.00";
+            description = "\U5403\U4e86\U8fd8\U60f3\U5403\U7684\U597d\U997c\U5e72";
+            dorm = 1;
+            from = 0;
+            id = 26;
+            "is_recommend" = 0;
+            name = "\U65fa\U4ed4\U725b\U5976\U997c";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/52248.jpg";
+            price = "4.00";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 90g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:39:50";
+            category = 5;
+            deposit = "0.00";
+            description = "\U771f\U6b63\U68d2\U7684\U597d\U6ecb\U5473";
+            dorm = 1;
+            from = 0;
+            id = 24;
+            "is_recommend" = 0;
+            name = "\U65fa\U65fa\U771f\U68d2";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/92179.jpg";
+            price = "0.10";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "0.10";
+        },
+                {
+            "add_time" = "2018-01-22 14:38:07";
+            category = 5;
+            deposit = "0.00";
+            description = "\U4e09\U597d\U71ac\U51fa\U597d\U7ca5\U9053";
+            dorm = 1;
+            from = 0;
+            id = 22;
+            "is_recommend" = 0;
+            name = "\U597d\U7ca5\U9053 (\U9ed1\U7c73)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/54317.jpg";
+            price = "4.50";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 280g;
+            status = 1;
+            "vip_price" = "4.50";
+        },
+                {
+            "add_time" = "2018-01-22 14:36:20";
+            category = 5;
+            deposit = "0.00";
+            description = "\U5403\U4e86\U8fd8\U60f3\U5403\U7684\U597d\U997c\U5e72";
+            dorm = 1;
+            from = 0;
+            id = 21;
+            "is_recommend" = 0;
+            name = "\U65fa\U65fa\U5c0f\U718a\U997c";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/58982.jpg";
+            price = "0.10";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 90g;
+            status = 1;
+            "vip_price" = "0.10";
+        },
+                {
+            "add_time" = "2018-01-22 14:34:45";
+            category = 5;
+            deposit = "0.00";
+            description = "\U53ef\U7231\U7684\U6ce1\U8299\Uff0c\U81ea\U5728\U7684\U5fc3\Uff0c\U95f2\U9002\U7684\U60c5\Uff01";
+            dorm = 1;
+            from = 0;
+            id = 19;
+            "is_recommend" = 0;
+            name = "\U65fa\U65fa\U6ce1\U8299";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/19321.jpg";
+            price = "4.00";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:32:34";
+            category = 5;
+            deposit = "0.00";
+            description = "\U7537\U751f\U5973\U751f\U914d\Uff01";
+            dorm = 1;
+            from = 0;
+            id = 16;
+            "is_recommend" = 0;
+            name = "\U65fa\U65fa\U9ed1\U767d\U914d";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/72918.jpg";
+            price = "0.10";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 60g;
+            status = 1;
+            "vip_price" = "0.10";
+        },
+                {
+            "add_time" = "2018-01-22 14:28:28";
+            category = 5;
+            deposit = "0.00";
+            description = "\U997c\U76ae\U6dfb\U52a0\U5496\U5561\U7c89\Uff0c\U5168\U65b0\U914d\U65b9\U5e26\U7ed9\U60a8\Uff01";
+            dorm = 1;
+            from = 0;
+            id = 14;
+            "is_recommend" = 0;
+            name = "\U65fa\U65fa\U98ce\U60c5\U997c";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/50497.jpg";
+            price = "0.10";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 55g;
+            status = 1;
+            "vip_price" = "0.10";
+        },
+                {
+            "add_time" = "2018-01-22 14:22:02";
+            category = 5;
+            deposit = "0.00";
+            description = "\U6bcf\U4e00\U53e3\U90fd\U8ba9\U60a8\U4eab\U53d7\U5230\U65b0\U9c9c\U852c\U83dc\U7684\U7f8e\U5473\Uff01";
+            dorm = 1;
+            from = 0;
+            id = 11;
+            "is_recommend" = 0;
+            name = "\U4e0a\U597d\U4f73";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/83996.jpg";
+            price = "3.50";
+            "real_category" = 5;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 50g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:59:24";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 71;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U6d3b\U6027\U4e73\U9178\U83cc(\U539f\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/35737.jpg";
+            price = "6.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 300ml;
+            status = 1;
+            "vip_price" = "6.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:58:14";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 70;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U6d3b\U6027\U4e73\U9178\U83cc(\U8349\U8393\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/53468.jpg";
+            price = "6.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 300ml;
+            status = 1;
+            "vip_price" = "6.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:56:48";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 69;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U5927\U7ea2\U67a3\U9178\U5976";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/23006.jpg";
+            price = "3.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 160g;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:55:27";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 68;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U5a1f\U73ca\U7687\U9178\U725b\U5976";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/80548.jpg";
+            price = "4.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 236g;
+            status = 1;
+            "vip_price" = "4.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:54:13";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 67;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U679c\U7c92\U9178\U5976(\U84dd\U8393\U8461\U8404\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/43024.jpg";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 160g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:52:41";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 66;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U679c\U7c92\U9178\U5976(\U82a6\U835f\U7315\U7334\U6843\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/75871.jpg";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 160g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:51:28";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 65;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U679c\U7c92\U9178\U5976(\U8349\U8393\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/85103.jpg";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 160g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:49:39";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 64;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U8001\U9178\U5976";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/63104.jpg";
+            price = "4.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 180g;
+            status = 1;
+            "vip_price" = "4.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:48:19";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 63;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U6838\U6843\U82b1\U751f\U5976";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/32789.jpg";
+            price = "2.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 200ml;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:46:40";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 62;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U5de7\U514b\U529b\U725b\U5976";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/33542.jpg";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:45:14";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 61;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U9178\U4e73";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/21467.jpg";
+            price = "3.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:43:27";
+            category = 6;
+            deposit = "0.00";
+            description = "\U7b2c\U4e00\U53e3\U5c31\U7231\U4e0a\U4e86";
+            dorm = 1;
+            from = 0;
+            id = 60;
+            "is_recommend" = 0;
+            name = "\U5929\U53cb \U7eaf\U725b\U5976";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/70277.jpg";
+            price = "3.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250ml;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:37:21";
+            category = 6;
+            deposit = "0.00";
+            description = "\U81ea\U7136\U6709\U4e50\U8da3";
+            dorm = 1;
+            from = 0;
+            id = 59;
+            "is_recommend" = 0;
+            name = "\U771f\U679c\U7c92(\U6930\U679c\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/58756.jpg";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:32:04";
+            category = 6;
+            deposit = "0.00";
+            description = "\U81ea\U7136\U6709\U4e50\U8da3";
+            dorm = 1;
+            from = 0;
+            id = 58;
+            "is_recommend" = 0;
+            name = "\U771f\U679c\U7c92(\U6843\U679c\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/53271.jpg";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:30:55";
+            category = 6;
+            deposit = "0.00";
+            description = "\U81ea\U7136\U6709\U4e50\U8da3";
+            dorm = 1;
+            from = 0;
+            id = 57;
+            "is_recommend" = 0;
+            name = "\U771f\U679c\U7c92(\U82a6\U835f\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/46362.jpg";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:29:30";
+            category = 6;
+            deposit = "0.00";
+            description = "\U81ea\U7136\U6709\U4e50\U8da3";
+            dorm = 1;
+            from = 0;
+            id = 56;
+            "is_recommend" = 0;
+            name = "\U771f\U679c\U7c92(\U84dd\U8393\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/85738.jpg";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:27:55";
+            category = 6;
+            deposit = "0.00";
+            description = "\U81ea\U7136\U6709\U4e50\U8da3";
+            dorm = 1;
+            from = 0;
+            id = 55;
+            "is_recommend" = 0;
+            name = "\U771f\U679c\U7c92(\U8349\U8393\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/77976.jpg";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:25:35";
+            category = 6;
+            deposit = "0.00";
+            description = "\U81ea\U7136\U6709\U4e50\U8da3";
+            dorm = 1;
+            from = 0;
+            id = 54;
+            "is_recommend" = 0;
+            name = "\U771f\U679c\U7c92(\U8349\U8393\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/81986.jp";
+            price = "3.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250g;
+            status = 1;
+            "vip_price" = "3.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:20:00";
+            category = 6;
+            deposit = "0.00";
+            description = "\U5065\U5eb7\U7f8e\U5473\U4e00\U7ebf\U7275";
+            dorm = 1;
+            from = 0;
+            id = 53;
+            "is_recommend" = 0;
+            name = "\U8425\U517b\U5feb\U7ebf(\U539f\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/44452.jpg";
+            price = "2.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250ml;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:18:29";
+            category = 6;
+            deposit = "0.00";
+            description = "\U5065\U5eb7\U7f8e\U5473\U4e00\U7ebf\U7275";
+            dorm = 1;
+            from = 0;
+            id = 52;
+            "is_recommend" = 1;
+            name = "\U8425\U517b\U5feb\U7ebf(\U83e0\U841d\U5473)";
+            num = 98;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/68442.jpg";
+            price = "2.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250ml;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:16:36";
+            category = 6;
+            deposit = "0.00";
+            description = "\U9897\U9897\U591a\U6c41 \U66f4\U6709\U6599";
+            dorm = 1;
+            from = 0;
+            id = 51;
+            "is_recommend" = 0;
+            name = "\U4f0a\U5229 \U4f18\U9178\U4e73 \U7206\U8da3\U73e0(\U82f9\U679c\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/35973.jpg";
+            price = "3.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250g;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:15:18";
+            category = 6;
+            deposit = "0.00";
+            description = "\U9897\U9897\U591a\U6c41 \U66f4\U6709\U6599";
+            dorm = 1;
+            from = 0;
+            id = 50;
+            "is_recommend" = 0;
+            name = "\U4f0a\U5229 \U4f18\U9178\U4e73 \U7206\U8da3\U73e0(\U8349\U8393\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/27347.jpg";
+            price = "3.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250g;
+            status = 1;
+            "vip_price" = "3.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:09:24";
+            category = 6;
+            deposit = "0.00";
+            description = "\U8ba9\U76f8\U805a\U66f4\U6d53";
+            dorm = 1;
+            from = 0;
+            id = 49;
+            "is_recommend" = 0;
+            name = "\U4f0a\U5229 \U5b89\U6155\U5e0c \U9178\U5976";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/76263.jpg";
+            price = "6.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 205g;
+            status = 1;
+            "vip_price" = "6.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:07:45";
+            category = 6;
+            deposit = "0.00";
+            description = "\U996d\U540e\U6765\U4e00\U74f6";
+            dorm = 1;
+            from = 0;
+            id = 48;
+            "is_recommend" = 0;
+            name = "\U65b0\U5e0c\U671b \U6d3b\U6da6";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/70446.jpg";
+            price = "6.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 300ml;
+            status = 1;
+            "vip_price" = "6.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:06:15";
+            category = 6;
+            deposit = "0.00";
+            description = "\U518d\U770b\U5c31\U628a\U6211\U559d\U6389";
+            dorm = 1;
+            from = 0;
+            id = 47;
+            "is_recommend" = 0;
+            name = "\U65fa\U4ed4\U725b\U5976(\U76d2)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/73059.jpg";
+            price = "2.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 125ml;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:04:13";
+            category = 6;
+            deposit = "0.00";
+            description = "\U6d3b\U529b\U6bcf\U4e00\U5929";
+            dorm = 1;
+            from = 0;
+            id = 46;
+            "is_recommend" = 0;
+            name = "\U5a03\U54c8\U54c8 \U723d\U6b6a\U6b6a";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/77167.jpg";
+            price = "2.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 200ml;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 15:02:36";
+            category = 6;
+            deposit = "0.00";
+            description = "\U6d3b\U529b\U6bcf\U4e00\U5929";
+            dorm = 1;
+            from = 0;
+            id = 45;
+            "is_recommend" = 0;
+            name = "\U5a03\U54c8\U54c8 \U4e73\U9178\U83cc";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/18285.jpg";
+            price = "2.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 100ml;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 15:00:45";
+            category = 6;
+            deposit = "0.00";
+            description = "\U6d3b\U529b\U6bcf\U4e00\U5929";
+            dorm = 1;
+            from = 0;
+            id = 44;
+            "is_recommend" = 0;
+            name = "\U5a03\U54c8\U54c8 AD\U9499\U5976";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/28437.jpg";
+            price = "2.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 220g;
+            status = 1;
+            "vip_price" = "2.50";
+        },
+                {
+            "add_time" = "2018-01-22 14:58:00";
+            category = 6;
+            deposit = "0.00";
+            description = "\U8fc7\U628a\U706b \U624d\U591f\U5473";
+            dorm = 1;
+            from = 0;
+            id = 43;
+            "is_recommend" = 0;
+            name = "\U5929\U5594\U8336\U5e84 \U78b3\U70e7(\U539f\U9999\U62c9\U8336)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/12191.jpg";
+            price = "5.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 500ml;
+            status = 1;
+            "vip_price" = "5.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:56:52";
+            category = 6;
+            deposit = "0.00";
+            description = "\U8fc7\U628a\U706b \U624d\U591f\U5473";
+            dorm = 1;
+            from = 0;
+            id = 42;
+            "is_recommend" = 0;
+            name = "\U5929\U5594\U8336\U5e84 \U78b3\U70e7(\U9e33\U9e2f\U5976\U8336)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/79743.jpg";
+            price = "5.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 500ml;
+            status = 1;
+            "vip_price" = "5.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:55:34";
+            category = 6;
+            deposit = "0.00";
+            description = "\U8fc7\U628a\U706b \U624d\U591f\U5473";
+            dorm = 1;
+            from = 0;
+            id = 41;
+            "is_recommend" = 0;
+            name = "\U5929\U5594\U8336\U5e84 \U78b3\U70e7(\U6469\U5361\U5496\U5561)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/15969.jpg";
+            price = "5.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 500ml;
+            status = 1;
+            "vip_price" = "5.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:54:13";
+            category = 6;
+            deposit = "0.00";
+            description = "\U8fc7\U628a\U706b \U624d\U591f\U5473";
+            dorm = 1;
+            from = 0;
+            id = 40;
+            "is_recommend" = 0;
+            name = "\U5929\U5594\U8336\U5e84 \U78b3\U70e7(\U9ed1\U7cd6\U70e7\U5976\U8336)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/25919.jpg";
+            price = "5.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 500ml;
+            status = 1;
+            "vip_price" = "5.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:52:41";
+            category = 6;
+            deposit = "0.00";
+            description = "\U4e00\U53e3\U7eaf\U7504 \U56de\U5f52\U7eaf\U4e0e\U771f";
+            dorm = 1;
+            from = 0;
+            id = 39;
+            "is_recommend" = 0;
+            name = "\U8499\U725b \U4f18\U76caC";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/45549.jpg";
+            price = "7.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 340ml;
+            status = 1;
+            "vip_price" = "7.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:51:27";
+            category = 6;
+            deposit = "0.00";
+            description = "\U4e00\U53e3\U7eaf\U7504 \U56de\U5f52\U7eaf\U4e0e\U771f";
+            dorm = 1;
+            from = 0;
+            id = 38;
+            "is_recommend" = 0;
+            name = "\U8499\U725b \U9178\U9178\U4e73(\U539f\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/74387.jpg";
+            price = "2.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250ml;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:50:11";
+            category = 6;
+            deposit = "0.00";
+            description = "\U4e00\U53e3\U7eaf\U7504 \U56de\U5f52\U7eaf\U4e0e\U771f";
+            dorm = 1;
+            from = 0;
+            id = 37;
+            "is_recommend" = 0;
+            name = "\U8499\U725b \U9178\U9178\U4e73(\U8292\U679c\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/80755.jpg";
+            price = "2.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250ml;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:48:53";
+            category = 6;
+            deposit = "0.00";
+            description = "\U4e00\U53e3\U7eaf\U7504 \U56de\U5f52\U7eaf\U4e0e\U771f";
+            dorm = 1;
+            from = 0;
+            id = 35;
+            "is_recommend" = 0;
+            name = "\U8499\U725b \U9178\U9178\U4e73(\U84dd\U8393\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/97275.jpg";
+            price = "2.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250ml;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:47:39";
+            category = 6;
+            deposit = "0.00";
+            description = "\U4e00\U53e3\U7eaf\U7504 \U56de\U5f52\U7eaf\U4e0e\U771f";
+            dorm = 1;
+            from = 0;
+            id = 33;
+            "is_recommend" = 0;
+            name = "\U8499\U725b \U9178\U9178\U4e73(DV+\U950c)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/20276.jpg";
+            price = "2.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 250ml;
+            status = 1;
+            "vip_price" = "2.00";
+        },
+                {
+            "add_time" = "2018-01-22 14:46:15";
+            category = 6;
+            deposit = "0.00";
+            description = "\U4e00\U53e3\U7eaf\U7504 \U56de\U5f52\U7eaf\U4e0e\U771f";
+            dorm = 1;
+            from = 0;
+            id = 31;
+            "is_recommend" = 0;
+            name = "\U8499\U725b \U98ce\U5473\U9178\U725b\U5976(\U539f\U5473)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/63927.jpg";
+            price = "1.50";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 100g;
+            status = 1;
+            "vip_price" = "1.50";
+        },
+                {
+            "add_time" = "2018-01-22 14:44:42";
+            category = 6;
+            deposit = "0.00";
+            description = "\U4e00\U53e3\U7eaf\U7504 \U56de\U5f52\U7eaf\U4e0e\U771f";
+            dorm = 1;
+            from = 0;
+            id = 30;
+            "is_recommend" = 0;
+            name = "\U8499\U725b \U7eaf\U7504 \U9178\U5976";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180122/32362.jpg";
+            price = "6.00";
+            "real_category" = 6;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = 200g;
+            status = 1;
+            "vip_price" = "6.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:32:16";
+            category = 7;
+            deposit = "0.00";
+            description = "\U91d1\U94b1\U6854";
+            dorm = 1;
+            from = 0;
+            id = 203;
+            "is_recommend" = 0;
+            name = "\U91d1\U94b1\U6854";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/60681.jpg,http://pictx.sushewifi.com/image/admin/20180124/40536.jpg,http://pictx.sushewifi.com/image/admin/20180124/94190.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:29:58";
+            category = 7;
+            deposit = "0.00";
+            description = "\U706b\U9f99\U679c\Uff08\U7ea2\U5fc3\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 202;
+            "is_recommend" = 0;
+            name = "\U706b\U9f99\U679c\Uff08\U7ea2\U5fc3\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/35528.jpg,http://pictx.sushewifi.com/image/admin/20180124/16543.jpg,http://pictx.sushewifi.com/image/admin/20180124/23673.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:27:46";
+            category = 7;
+            deposit = "0.00";
+            description = "\U706b\U9f99\U679c\Uff08\U767d\U5fc3\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 201;
+            "is_recommend" = 0;
+            name = "\U706b\U9f99\U679c\Uff08\U767d\U5fc3\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/12707.jpg,http://pictx.sushewifi.com/image/admin/20180124/19828.jpg,http://pictx.sushewifi.com/image/admin/20180124/45307.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:25:26";
+            category = 7;
+            deposit = "0.00";
+            description = "\U54c8\U5bc6\U74dc";
+            dorm = 1;
+            from = 0;
+            id = 200;
+            "is_recommend" = 0;
+            name = "\U54c8\U5bc6\U74dc";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/51917.jpg,http://pictx.sushewifi.com/image/admin/20180124/33851.jpg,http://pictx.sushewifi.com/image/admin/20180124/55110.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:23:09";
+            category = 7;
+            deposit = "0.00";
+            description = "\U6842\U5706";
+            dorm = 1;
+            from = 0;
+            id = 199;
+            "is_recommend" = 0;
+            name = "\U6842\U5706";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/12953.jpg,http://pictx.sushewifi.com/image/admin/20180124/11834.jpg,http://pictx.sushewifi.com/image/admin/20180124/91032.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:20:52";
+            category = 7;
+            deposit = "0.00";
+            description = "\U67d1(\U692a\U67d1)";
+            dorm = 1;
+            from = 0;
+            id = 198;
+            "is_recommend" = 0;
+            name = "\U67d1(\U692a\U67d1)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/94594.jpg,http://pictx.sushewifi.com/image/admin/20180124/27009.jpg,http://pictx.sushewifi.com/image/admin/20180124/46007.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:18:51";
+            category = 7;
+            deposit = "0.00";
+            description = "\U67d1(\U7687\U5e1d\U67d1)";
+            dorm = 1;
+            from = 0;
+            id = 197;
+            "is_recommend" = 0;
+            name = "\U67d1(\U7687\U5e1d\U67d1)";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/37007.jpg,http://pictx.sushewifi.com/image/admin/20180124/69528.jpg,http://pictx.sushewifi.com/image/admin/20180124/58273.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:16:10";
+            category = 7;
+            deposit = "0.00";
+            description = "\U83e0\U841d";
+            dorm = 1;
+            from = 0;
+            id = 196;
+            "is_recommend" = 0;
+            name = "\U83e0\U841d";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/37920.jpg,http://pictx.sushewifi.com/image/admin/20180124/78175.jpg,http://pictx.sushewifi.com/image/admin/20180124/30852.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:15:49";
+            category = 7;
+            deposit = "0.00";
+            description = "\U9999\U8549\Uff08\U5c0f\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 195;
+            "is_recommend" = 0;
+            name = "\U9999\U8549\Uff08\U5c0f\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/78465.jpg,http://pictx.sushewifi.com/image/admin/20180124/61526.jpg,http://pictx.sushewifi.com/image/admin/20180124/51191.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:13:51";
+            category = 7;
+            deposit = "0.00";
+            description = "\U9999\U8549\Uff08\U5927\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 194;
+            "is_recommend" = 0;
+            name = "\U9999\U8549\Uff08\U5927\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/41594.jpg,http://pictx.sushewifi.com/image/admin/20180124/39201.jpg,http://pictx.sushewifi.com/image/admin/20180124/94020.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:12:17";
+            category = 7;
+            deposit = "0.00";
+            description = "\U9c9c\U6a59";
+            dorm = 1;
+            from = 0;
+            id = 192;
+            "is_recommend" = 0;
+            name = "\U9c9c\U6a59";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/47432.jpg,http://pictx.sushewifi.com/image/admin/20180124/10051.jpg,http://pictx.sushewifi.com/image/admin/20180124/90267.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:09:34";
+            category = 7;
+            deposit = "0.00";
+            description = "\U9752\U67a3";
+            dorm = 1;
+            from = 0;
+            id = 190;
+            "is_recommend" = 0;
+            name = "\U9752\U67a3";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/88155.jpg,http://pictx.sushewifi.com/image/admin/20180124/66158.jpg,http://pictx.sushewifi.com/image/admin/20180124/19443.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:07:15";
+            category = 7;
+            deposit = "0.00";
+            description = "\U5343\U79a7\U679c";
+            dorm = 1;
+            from = 0;
+            id = 188;
+            "is_recommend" = 0;
+            name = "\U5343\U79a7\U679c";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/21824.jpg,http://pictx.sushewifi.com/image/admin/20180124/88010.jpg,http://pictx.sushewifi.com/image/admin/20180124/54073.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:05:35";
+            category = 7;
+            deposit = "0.00";
+            description = "\U82f9\U679c\Uff08\U5c71\U4e1c\U5bcc\U58eb80\U679c\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 187;
+            "is_recommend" = 0;
+            name = "\U82f9\U679c\Uff08\U5c71\U4e1c\U5bcc\U58eb80\U679c\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/43030.jpg,http://pictx.sushewifi.com/image/admin/20180124/46238.jpg,http://pictx.sushewifi.com/image/admin/20180124/74994.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:58:29";
+            category = 7;
+            deposit = "0.00";
+            description = "\U82f9\U679c\Uff08\U5c71\U4e1c\U5bcc\U58eb 75\U679c\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 183;
+            "is_recommend" = 0;
+            name = "\U82f9\U679c\Uff08\U5c71\U4e1c\U5bcc\U58eb 75\U679c\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/25428.jpg,http://pictx.sushewifi.com/image/admin/20180124/16524.jpg,http://pictx.sushewifi.com/image/admin/20180124/48396.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:56:23";
+            category = 7;
+            deposit = "0.00";
+            description = "\U82f9\U679c\Uff08\U9752\U86c7\U679c\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 181;
+            "is_recommend" = 0;
+            name = "\U82f9\U679c\Uff08\U9752\U86c7\U679c\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/23157.jpg,http://pictx.sushewifi.com/image/admin/20180124/78484.jpg,http://pictx.sushewifi.com/image/admin/20180124/54105.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "101.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:54:12";
+            category = 7;
+            deposit = "0.00";
+            description = "\U82f9\U679c\Uff08\U59ec\U5a1c\U679c\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 180;
+            "is_recommend" = 0;
+            name = "\U82f9\U679c\Uff08\U59ec\U5a1c\U679c\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/86987.jpg,http://pictx.sushewifi.com/image/admin/20180124/23685.jpg,http://pictx.sushewifi.com/image/admin/20180124/35274.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:52:36";
+            category = 7;
+            deposit = "0.00";
+            description = "\U82f9\U679c\Uff08\U82b1\U725b \U82f9\U679c\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 179;
+            "is_recommend" = 0;
+            name = "\U82f9\U679c\Uff08\U82b1\U725b \U82f9\U679c\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/91565.jpg,http://pictx.sushewifi.com/image/admin/20180124/50586.jpg,http://pictx.sushewifi.com/image/admin/20180124/98023.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:50:45";
+            category = 7;
+            deposit = "0.00";
+            description = "\U82f9\U679c\Uff08\U7ea2\U86c7\U679c\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 177;
+            "is_recommend" = 0;
+            name = "\U82f9\U679c\Uff08\U7ea2\U86c7\U679c\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/37372.jpg,http://pictx.sushewifi.com/image/admin/20180124/95230.jpg,http://pictx.sushewifi.com/image/admin/20180124/23332.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:48:41";
+            category = 7;
+            deposit = "0.00";
+            description = "\U67e0\U6aac";
+            dorm = 1;
+            from = 0;
+            id = 176;
+            "is_recommend" = 0;
+            name = "\U67e0\U6aac";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/58703.jpg,http://pictx.sushewifi.com/image/admin/20180124/93131.jpg,http://pictx.sushewifi.com/image/admin/20180124/28831.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:47:05";
+            category = 7;
+            deposit = "0.00";
+            description = "\U871c\U67da";
+            dorm = 1;
+            from = 0;
+            id = 175;
+            "is_recommend" = 0;
+            name = "\U871c\U67da";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/35844.jpg,http://pictx.sushewifi.com/image/admin/20180124/72924.jpg,http://pictx.sushewifi.com/image/admin/20180124/96961.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:45:26";
+            category = 7;
+            deposit = "0.00";
+            description = "\U7315\U7334\U6843\Uff08\U7eff\U5fc3\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 173;
+            "is_recommend" = 0;
+            name = "\U7315\U7334\U6843\Uff08\U7eff\U5fc3\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/15984.jpg,http://pictx.sushewifi.com/image/admin/20180124/82215.jpg,http://pictx.sushewifi.com/image/admin/20180124/86269.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:43:37";
+            category = 7;
+            deposit = "0.00";
+            description = "\U7315\U7334\U6843\Uff08\U9ec4\U5fc3\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 172;
+            "is_recommend" = 0;
+            name = "\U7315\U7334\U6843\Uff08\U9ec4\U5fc3\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/97555.jpg,http://pictx.sushewifi.com/image/admin/20180124/71918.jpg,http://pictx.sushewifi.com/image/admin/20180124/51330.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:42:13";
+            category = 7;
+            deposit = "0.00";
+            description = "\U7315\U7334\U6843\Uff08\U7ea2\U5fc3\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 170;
+            "is_recommend" = 0;
+            name = "\U7315\U7334\U6843\Uff08\U7ea2\U5fc3\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/46514.jpg,http://pictx.sushewifi.com/image/admin/20180124/26121.jpg,http://pictx.sushewifi.com/image/admin/20180124/33160.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:40:04";
+            category = 7;
+            deposit = "0.00";
+            description = "\U68a8\Uff08\U96ea\U68a8\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 169;
+            "is_recommend" = 0;
+            name = "\U68a8\Uff08\U96ea\U68a8\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/20216.jpg,http://pictx.sushewifi.com/image/admin/20180124/67194.jpg,http://pictx.sushewifi.com/image/admin/20180124/61640.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:38:05";
+            category = 7;
+            deposit = "0.00";
+            description = "\U68a8\Uff08\U9999\U68a8\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 167;
+            "is_recommend" = 0;
+            name = "\U68a8\Uff08\U9999\U68a8\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/96979.jpg,http://pictx.sushewifi.com/image/admin/20180124/56154.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:36:28";
+            category = 7;
+            deposit = "0.00";
+            description = "\U68a8\Uff08\U6c34\U6676\U68a8\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 166;
+            "is_recommend" = 0;
+            name = "\U68a8\Uff08\U6c34\U6676\U68a8\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/19253.jpg,http://pictx.sushewifi.com/image/admin/20180124/97481.jpg,http://pictx.sushewifi.com/image/admin/20180124/12288.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:33:27";
+            category = 7;
+            deposit = "0.00";
+            description = "\U68a8\Uff08\U5e93\U5c14\U52d2 \U9999\U68a8\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 165;
+            "is_recommend" = 0;
+            name = "\U68a8\Uff08\U5e93\U5c14\U52d2 \U9999\U68a8\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/94774.jpg,http://pictx.sushewifi.com/image/admin/20180124/59348.jpg,http://pictx.sushewifi.com/image/admin/20180124/48256.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:31:06";
+            category = 7;
+            deposit = "0.00";
+            description = "\U68a8\Uff08\U7687\U51a0\Uff09";
+            dorm = 1;
+            from = 0;
+            id = 163;
+            "is_recommend" = 0;
+            name = "\U68a8\Uff08\U7687\U51a0\Uff09";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/47144.jpg,http://pictx.sushewifi.com/image/admin/20180124/26969.jpg,http://pictx.sushewifi.com/image/admin/20180124/73747.jpg";
+            price = "10.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-23 11:15:47";
+            category = 7;
+            deposit = "0.00";
+            description = "\U7cbe\U54c1\U679c\U5207\U706b\U9f99\U679c+\U54c8\U5bc6\U74dc+\U897f\U74dc\Uff0c\U591a\U6837\U6df7\U642d\U66f4\U597d\U5403\Uff01";
+            dorm = 1;
+            from = 0;
+            id = 155;
+            "is_recommend" = 1;
+            name = "\U7cbe\U54c1\U679c\U5207\U706b\U9f99\U679c+\U54c8\U5bc6\U74dc";
+            num = 91;
+            pic = "http://pictx.sushewifi.com/image/admin/20180123/11697.jpg";
+            price = "15.00";
+            "real_category" = 7;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U76d2\U88c5";
+            status = 1;
+            "vip_price" = "12.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:13:00";
+            category = 8;
+            deposit = "0.00";
+            description = "\U9633\U5149\U707f\U70c2";
+            dorm = 1;
+            from = 0;
+            id = 193;
+            "is_recommend" = 0;
+            name = "\U9633\U5149\U707f\U70c2";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/36597.jpg,http://pictx.sushewifi.com/image/admin/20180124/35308.jpg,http://pictx.sushewifi.com/image/admin/20180124/74899.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:10:31";
+            category = 8;
+            deposit = "0.00";
+            description = "\U718a\U51fa\U6ca1";
+            dorm = 1;
+            from = 0;
+            id = 191;
+            "is_recommend" = 0;
+            name = "\U718a\U51fa\U6ca1";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/60558.jpg,http://pictx.sushewifi.com/image/admin/20180124/36112.jpg,http://pictx.sushewifi.com/image/admin/20180124/55802.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:07:20";
+            category = 8;
+            deposit = "0.00";
+            description = "\U9999\U6d53\U8349\U8393";
+            dorm = 1;
+            from = 0;
+            id = 189;
+            "is_recommend" = 0;
+            name = "\U9999\U6d53\U8349\U8393";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/50870.jpg,http://pictx.sushewifi.com/image/admin/20180124/90945.jpg,http://pictx.sushewifi.com/image/admin/20180124/37774.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:05:03";
+            category = 8;
+            deposit = "0.00";
+            description = "\U6c34\U679cparty";
+            dorm = 1;
+            from = 0;
+            id = 186;
+            "is_recommend" = 0;
+            name = "\U6c34\U679cparty";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/10737.jpg,http://pictx.sushewifi.com/image/admin/20180124/88179.jpg,http://pictx.sushewifi.com/image/admin/20180124/63236.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:02:57";
+            category = 8;
+            deposit = "0.00";
+            description = "\U5982\U679c\U7231";
+            dorm = 1;
+            from = 0;
+            id = 185;
+            "is_recommend" = 0;
+            name = "\U5982\U679c\U7231";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/31739.jpg,http://pictx.sushewifi.com/image/admin/20180124/77770.jpg,http://pictx.sushewifi.com/image/admin/20180124/59060.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 10:00:45";
+            category = 8;
+            deposit = "0.00";
+            description = "\U840c\U864e";
+            dorm = 1;
+            from = 0;
+            id = 184;
+            "is_recommend" = 0;
+            name = "\U840c\U864e";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/55906.jpg,http://pictx.sushewifi.com/image/admin/20180124/53827.jpg,http://pictx.sushewifi.com/image/admin/20180124/15120.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:58:16";
+            category = 8;
+            deposit = "0.00";
+            description = "\U5feb\U4e50\U65f6\U5149";
+            dorm = 1;
+            from = 0;
+            id = 182;
+            "is_recommend" = 0;
+            name = "\U5feb\U4e50\U65f6\U5149";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/83220.jpg,http://pictx.sushewifi.com/image/admin/20180124/54162.jpg,http://pictx.sushewifi.com/image/admin/20180124/35162.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:52:20";
+            category = 8;
+            deposit = "0.00";
+            description = "\U53ef\U7231\U751c\U5fc3";
+            dorm = 1;
+            from = 0;
+            id = 178;
+            "is_recommend" = 0;
+            name = "\U53ef\U7231\U751c\U5fc3";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/61305.jpg,http://pictx.sushewifi.com/image/admin/20180124/96649.jpg,http://pictx.sushewifi.com/image/admin/20180124/50545.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:45:46";
+            category = 8;
+            deposit = "0.00";
+            description = "\U6b22\U805a";
+            dorm = 1;
+            from = 0;
+            id = 174;
+            "is_recommend" = 0;
+            name = "\U6b22\U805a";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/55913.jpg,http://pictx.sushewifi.com/image/admin/20180124/70759.jpg,http://pictx.sushewifi.com/image/admin/20180124/35363.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:42:55";
+            category = 8;
+            deposit = "0.00";
+            description = "\U7ea2\U7ea2\U706b\U706b";
+            dorm = 1;
+            from = 0;
+            id = 171;
+            "is_recommend" = 0;
+            name = "\U7ea2\U7ea2\U706b\U706b";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/30222.jpg,http://pictx.sushewifi.com/image/admin/20180124/47609.jpg,http://pictx.sushewifi.com/image/admin/20180124/72947.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:39:52";
+            category = 8;
+            deposit = "0.00";
+            description = "\U679c\U98d8\U9999";
+            dorm = 1;
+            from = 0;
+            id = 168;
+            "is_recommend" = 0;
+            name = "\U679c\U98d8\U9999";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/31193.jpg,http://pictx.sushewifi.com/image/admin/20180124/15755.jpg,http://pictx.sushewifi.com/image/admin/20180124/34196.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        },
+                {
+            "add_time" = "2018-01-24 09:32:02";
+            category = 8;
+            deposit = "0.00";
+            description = "\U6625\U610f\U76ce\U7136";
+            dorm = 1;
+            from = 0;
+            id = 164;
+            "is_recommend" = 0;
+            name = "\U6625\U610f\U76ce\U7136";
+            num = 100;
+            pic = "http://pictx.sushewifi.com/image/admin/20180124/89234.jpg,http://pictx.sushewifi.com/image/admin/20180124/47670.jpg,http://pictx.sushewifi.com/image/admin/20180124/16970.jpg";
+            price = "10.00";
+            "real_category" = 8;
+            school = "\U8363\U660c\U804c\U6559";
+            source = 0;
+            spec = "\U4e2a";
+            status = 1;
+            "vip_price" = "10.00";
+        }
+    );
+    ok = 1;
+    "peak_memory" = "2.294";
+}
+
+ 
